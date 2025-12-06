@@ -1,4 +1,4 @@
-# Canvas Shooting Game
+# Space Ball Game
 
 A web-based shooting game built with HTML5 Canvas and vanilla JavaScript. Defend yourself from colorful enemies that spawn around the screen and move toward your position in the center!
 
